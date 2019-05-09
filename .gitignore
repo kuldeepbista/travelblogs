@@ -66,6 +66,12 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
+
 # PyBuilder
 target/
 
